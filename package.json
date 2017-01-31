@@ -4,7 +4,7 @@
   "description": "This is my application on Node.js (passport)",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon"
   },
   "author": "Aleksey Belchenkov",
   "license": "ISC",
